@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Nandini1Bag/Nandini1Bag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a FrontEnd Developer with a huge love for React.js. Currently, I'm open to work and employment opportunities.
 
-Here are some ideas to get you started:
+I Actively code on React every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love to read books and listen to music.
+
+🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+👯 I’m currently open for work and employment opportunities (remote and relocation)
+💬 Ask me about React.js, Javascript and API development.
+📫 I am just one mail away - [nini.nandini@gmail.com]
+😄 Pronouns: She, Fit & Motivated 😄
+🥳 Fun fact: I love to workout every day, I love to dance.
