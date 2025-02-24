@@ -1,19 +1,20 @@
-## Hi there 👋
+Hi there 👋
+I am a Master's student in Data Science at Northwestern University and a Front-End Developer transitioning into Data Science. 
+I'm passionate about leveraging data to create impactful solutions and constantly improving my skills in analytics, machine learning, and statistics.
 
-I am a FrontEnd Developer with a huge love for React.js. Currently, I'm open to work and employment opportunities.
-
-I Actively code on React every day.
-
-I love to read books and listen to music.
-
-🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-
-👯 I’m currently open for work and employment opportunities (remote and relocation)
-
-💬 Ask me about React.js, Javascript and API development.
-
-📫 I am just one mail away - [nini.nandini@gmail.com]
-
-😄 Pronouns: She, Fit & Motivated 😄
-
-🥳 Fun fact: I love to workout every day, I love to dance.
+🌱 Currently Learning:
+Python for data analysis and machine learning
+Data Analytics: Extracting actionable insights from large datasets
+Machine Learning: Building and refining models to solve complex problems
+Data Engineering: Handling data pipelines and big data technologies
+💬 Ask Me About:
+Python and Data Science libraries (Pandas, NumPy)
+Data Visualization (Matplotlib, Seaborn, Tableau)
+Machine Learning Techniques (Supervised & Unsupervised Learning)
+📫 Contact Me:
+I am open to collaboration and opportunities:
+Email: nini.nandini@gmail.com
+😄 Pronouns:
+She, Fit & Motivated
+🥳 Fun Fact:
+I love to work out every day and dance to keep energized and motivated!
