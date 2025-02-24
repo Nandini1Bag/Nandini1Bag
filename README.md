@@ -5,10 +5,13 @@ I'm passionate about leveraging data to create impactful solutions and
 constantly improving my skills in analytics, machine learning, and statistics.
 
 🌱 Currently Learning:
-Python for data analysis and machine learning
-Data Analytics: Extracting actionable insights from large datasets
-Machine Learning: Building and refining models to solve complex problems
-Data Engineering: Handling data pipelines and big data technologies
+-Python for data analysis and machine learning
+
+-Data Analytics: Extracting actionable insights from large datasets
+
+-Machine Learning: Building and refining models to solve complex problems
+
+-Data Engineering: Handling data pipelines and big data technologies
 
 💬 Ask Me About:
 Python and Data Science libraries (Pandas, NumPy)
